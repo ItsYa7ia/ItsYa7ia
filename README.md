@@ -17,5 +17,6 @@ The Hardware Side: I build electronics projects. It’s all fun and games until 
 
 🍕 Vital Stats:
 - Anime: My primary fuel source. I’ve considered building a real-life ODM gear from Attack on Titan (budget disagrees).
+- Chess: Like I'm so talented, Like I have 140 elo
 - Logic: 90% Stack Overflow, 10% "Let me try turning it off and on again."
 
