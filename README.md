@@ -12,11 +12,11 @@ The Hardware Side: I build electronics projects. It’s all fun and games until 
 
 💻 The Scripting Struggles:
 - Python — my “let’s get it done in 5 minutes” language.
-- Learning JavaScript — currently "learning" (translation: I stare at segmentation faults and cry).
+- Learning JavaScript — turning ‘why doesn’t this work?’ into ‘why does this work?’ fits better than the segmentation-fault joke.
 
 qandil©️
-- Building my own technology consumer brand qandil.
-- Building Hardware and Software (Trying to build).
+- Building my own consumer technology brand, qandil.
+- Building Hardware and Software ( trying... ).
 
 🍕 Vital Stats:
 - Sim racing: Trying to turn that into a real F4 seat (without dying).
