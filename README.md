@@ -1,22 +1,25 @@
 ## Hey there 🙋‍♂️
 
 🌊 Yahia — The Alexandrian Alchemist  
-Turning caffeine into code and electricity into (hopefully not too much) smoke.
+Turning caffeine into code and electricity into smoke (hopefully not too much).
 
 🛠 The "I Can Fix That" Starter Pack  
 Origin: Born and raised in Alexandria. Yes, the sea air helps me debug. No, it does not help my electronics from rusting. 🦀
 
-The Lab: I live in VS Code on Windows. If my PC isn't open, my toolbox probably is.
+The Lab: I live on Windows rn. If my PC isn't open, my toolbox probably is.
 
 The Hardware Side: I build electronics projects. It’s all fun and games until I accidentally touch a hot capacitor. ⚡️
 
 💻 The Scripting Struggles:
 - Python — my “let’s get it done in 5 minutes” language.
-- GDScript — Godot believer. Making games is my therapy (and also the cause of my stress).
-- C++ — currently "learning" (translation: I stare at segmentation faults and cry).
+- Learning JavaScript — currently "learning" (translation: I stare at segmentation faults and cry).
+
+qandil©️
+- Building my own technology consumer brand qandil.
+- Building Hardware and Software (Trying to build).
 
 🍕 Vital Stats:
-- Anime: primary fuel source.
+- Sim racing: Trying to turn that into a real F4 seat (without dying).
 - Chess: improving — around 140 Elo (give or take).
 - Logic: 90% Stack Overflow, 10% “have you tried turning it off and on again?”
 
